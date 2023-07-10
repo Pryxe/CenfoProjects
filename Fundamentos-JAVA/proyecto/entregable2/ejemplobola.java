@@ -1,4 +1,4 @@
-package entregable2;
+package proyecto.entregable2;
 
 import java.io.*;
 
